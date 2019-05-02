@@ -1,0 +1,10 @@
+.idea/
+db.sqlite3
+
+# pyenv
+.python-version
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
